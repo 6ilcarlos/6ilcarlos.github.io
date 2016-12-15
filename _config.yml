@@ -1,3 +1,4 @@
 name: Carlos Gil. Ingeniero de profesión, músico de corazón
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+gems:   - jekyll-sitemap
